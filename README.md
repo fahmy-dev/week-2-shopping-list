@@ -13,4 +13,4 @@ This project contains a challenge, in Javascript, completed for Week 2 of Phase 
 
 ## The Files
 You should see 5 files; 1 .js file, html file, png file, css file and this readme. The files are named one after the other, in chronological order.<br> 
-challenge1.js, challenge2.js, and challenge3.js
+README.md, index.html, paper.png, script.js and style.css
