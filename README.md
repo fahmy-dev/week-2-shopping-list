@@ -20,6 +20,8 @@ The files are named one after the other, in this order;<br>
 
 **assets, index.html, README.md, script.js and style.css**
 
+- **assets** - Folder containing assets used in this project
+
 - **index.html** - HTML file containing the basic structure of the website
 
 - **script.js** - Where the functionality of the shopping list is coded in  
