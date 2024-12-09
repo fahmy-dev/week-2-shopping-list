@@ -1,0 +1,70 @@
+body {
+    background-color: #e0aeae;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+
+#inputContainer {
+    display: flex;
+    gap: 10px; 
+    margin-bottom: 10px;
+}
+
+#itemInput, #priceInput {
+    width: 80%;
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #000000;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #8f8989;
+}
+
+#shoppingListContainer {
+    background-image: url('./paper.png');
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    min-height: 100%;
+    width: 65%;
+    margin: 10px auto;
+    box-sizing: border-box;
+    color: #333;
+}
+
+.listHead {
+    font-family: 'Dancing Script', cursive;
+}
+
+#shoppingList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: red;
+}

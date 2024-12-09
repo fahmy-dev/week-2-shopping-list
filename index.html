@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Shopping list</title>
+    <script src ="./script.js" defer></script>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1 id="title">Interactive Shopping list</h1>
+    
+    <div id="inputContainer">
+        <input type="text" id="itemInput" placeholder="Enter an item">
+        <input type="text" id="priceInput" placeholder="Price">
+        <button id="addButton">Add</button>
+    </div>
+        <div id="errorMessage" style="color: red; font-size: 1em; margin-bottom: 10px;"></div>
+    
+    <button id="clearListButton">Clear</button>
+    
+    <div id="shoppingListContainer">
+        <h1 class="listHead">My Shopping List</h1>
+        <h5 class="listHead">Click check-box to mark as purchased</h5>
+        <ul id="shoppingList"></ul>
+    </div> 
+
+</body>
+</html>
