@@ -17,11 +17,13 @@ It is an interactive shopping list in the form of a website, where you can add i
 ## The Files
 You should see 4 files, 1 folder; 1 .js file, html file, png file (in folder), css file and this readme.<br> 
 The files are named one after the other, in chronological order;<br> 
-README.md, index.html, paper.png, script.js and style.css
 
-- **index.html** - html file containing the basic structure of the website
+assets, index.html, README.md, script.js and style.css
 
-- **script.js** - Where the functionality of the shopping list is coded in (i.e adding items, clearing the list and striking off purchased items)   
+- **index.html** - HTML file containing the basic structure of the website
+
+- **script.js** - Where the functionality of the shopping list is coded in  
+(i.e adding items, clearing the list and striking off purchased items)   
 
 - **style.css** - Where the styles used to customise the look of the website are
 
@@ -32,4 +34,4 @@ README.md, index.html, paper.png, script.js and style.css
 - It will open the shopping list in your default browser
 
 ## License
-I **still** don't have a license tbf. God's still watching you.
+I **still** don't have a license. God's still watching you.
