@@ -18,7 +18,7 @@ It is an interactive shopping list in the form of a website, where you can add i
 You should see 4 files, 1 folder; 1 .js file, html file, png file (in folder), css file and this readme.<br> 
 The files are named one after the other, in chronological order;<br> 
 
-assets, index.html, README.md, script.js and style.css
+**assets, index.html, README.md, script.js and style.css**
 
 - **index.html** - HTML file containing the basic structure of the website
 
